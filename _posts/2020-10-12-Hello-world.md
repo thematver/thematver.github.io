@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hello, world!
+---
+
 #Hello, world!
 
 This is kind of boring stuff to write the first post in a feed. But I'll try.
