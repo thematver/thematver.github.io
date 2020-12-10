@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm learning Software Engineering at ITMO University. Love Swift, Ruby and Java.
 
-### More Information
+### What am I doing right now?
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm learning Ruby on Rails and writing my large project.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anomatver@niuitmo.ru](mailto:anomatver@niuitmo.ru)
